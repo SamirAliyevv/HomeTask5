@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.exe
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.deps.json
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.runtimeconfig.json
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.dll
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\bin\Debug\netcoreapp3.1\DemoTest.pdb
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.dll
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.pdb
+C:\Users\ASUS\Desktop\HomeTask5\DemoTest\DemoTest\obj\Debug\netcoreapp3.1\DemoTest.genruntimeconfig.cache
