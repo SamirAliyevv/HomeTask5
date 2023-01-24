@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using System.Linq;
 
 namespace DemoTest
 {
@@ -24,15 +26,28 @@ namespace DemoTest
             //    {
             //        Console.WriteLine(neweded[i]);
             //    }
-        //    int[] reqem = { 1, 2, 3, 4, };
-        //    int newnum = 5;
-        //    addnumber(ref reqem,newnum);
-        //    for (int i = 0; i < reqem.Length; i++)
-        //    {
-        //        Console.WriteLine(reqem[i]);
-        //    }
+            //    int[] reqem = { 1, 2, 3, 4, };
+            //    int newnum = 5;
+            //    addnumber(ref reqem,newnum);
+            //    for (int i = 0; i < reqem.Length; i++)
+            //    {
+            //        Console.WriteLine(reqem[i]);
+            //    }
+            // Reqemlerden ibaret array sonuna 5 elave etmek 
+            //int[] numbersarray = new int[] { 1, 2, };
+            //numbersarray= numbersarray.Append(5).ToArray();
+            //foreach (var numbers in numbersarray)
+            //{
+            //    Console.WriteLine(numbers);
+            //}    
 
-        //}
+            
+                
+
+
+
+
+        }
 
         //static void onvahidartiran( ref int numbers)
         //{
@@ -80,19 +95,8 @@ namespace DemoTest
 
         //} 
 
-        //static void addnumber(ref int [] arr,int newnum)
-        //{
-        //    int[] newarray= new int[arr.Length+1];
-        //    int j = 0;
-        //    for (int i = 0; i < arr.Length; i++)
-        //    {
-        //        newarray[j] = arr[i];
-
-        //    }
-        //    newarray[newarray.Length - 1] = newnum;
-        //    arr = newarray; 
-        ////}
 
 
     }
-}
+    
+}        
